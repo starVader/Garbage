@@ -1,0 +1,17 @@
+[
+{
+	"site" : "npr",
+	"link" : "http://www.npr.org",
+	"type" : 345.7
+},
+{
+	"site" : null,
+	"link" : "http:/rss/rss",
+	"type" : "rss"
+},
+{
+	"site" : true,
+	"link" : 1234,
+	"type" : null
+}
+]
